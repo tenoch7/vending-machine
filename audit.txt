@@ -1,0 +1,3 @@
+2018-05-29T11:00:49.836 : validateMoney:  |Args: 0.5, Gum |EX: com.sg.vendingmachine.service.VendingMachineInsufficientFundsException: Insuficcient funds.
+2018-05-29T11:01:46.185 : getOneItem:  |Args: chocolate |EX: com.sg.vendingmachine.service.VendingMachineInventoryException: Item not on inventory.
+2018-06-14T06:00:16.559 : validateMoney:  |Args: 1, KitKat |EX: com.sg.vendingmachine.service.VendingMachineInsufficientFundsException: Insuficcient funds.
